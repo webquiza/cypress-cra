@@ -1,7 +1,7 @@
 ## Setup
 
 ```bash
-git clone https://github.com/basarat/cypress-cra.git
+git clone https://github.com/webquiza/cypress-cra.git
 cd cypress-cra
 npm i
 ```
