@@ -17,3 +17,7 @@ npm run cypress:open
 ```
 npm run cypress:run
 ```
+
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/3tJZA_7ig1g/0.jpg)](https://www.youtube.com/watch?v=3tJZA_7ig1g)
